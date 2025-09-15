@@ -1,1 +1,3 @@
 # homeassistant-meteocat
+
+En desarrollo.
